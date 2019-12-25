@@ -17,3 +17,5 @@ knitr::opts_chunk$set(
 ```{r setup}
 
 ```
+
+## Chapter 4 Package structure and state
